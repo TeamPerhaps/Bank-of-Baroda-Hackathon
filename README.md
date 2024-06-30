@@ -1,4 +1,4 @@
-# Banking Operational Efficiency Enhancement using AI
+# Smart Banking: Automating Operations with AI
 
 ## Overview
 
